@@ -13,9 +13,9 @@ metadata:
   namespace: expense
 type: Opaque
 data:
-  MYSQL_ROOT_PASSWORD: ExpenseApp@1
-  MYSQL_USER: expense
-  MYSQL_PASSWORD: ExpenseApp@1
+  MYSQL_ROOT_PASSWORD: RXhwZW5zZUFwcEAx
+  MYSQL_USER: ZXhwZW5zZQ==
+  MYSQL_PASSWORD: RXhwZW5zZUFwcEAx
 ---
 apiVersion: apps/v1
 kind: Deployment
