@@ -84,9 +84,9 @@ data:
             root   /usr/share/nginx/html;
         }
 
-        # location /api/ { 
-        #     proxy_pass http://backend:8080/;
-        # }
+        location /api/ { 
+            proxy_pass http://backend:8080/;
+        }
 
         }
 
